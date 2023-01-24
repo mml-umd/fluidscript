@@ -1,0 +1,38 @@
+{
+  "Brightness": {
+    "value": 161
+  },
+  "Contrast": {
+    "value": 198
+  },
+  "Norm": {
+    "value": 10
+  },
+  "Color Hmin": {
+    "value": 0
+  },
+  "Color Hmax": {
+    "value": 30
+  },
+  "Color Smin": {
+    "value": 0
+  },
+  "Color Smax": {
+    "value": 10
+  },
+  "Color Vmin": {
+    "value": 100
+  },
+  "Color Vmax": {
+    "value": 255
+  },
+  "Color Ero": {
+    "value": 3
+  },
+  "Color Dil": {
+    "value": 3
+  },
+  "Color minA": {
+    "value": 0
+  }
+}
